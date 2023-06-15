@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb3d0be858b650e4380f8f9c76bca920, type: 3}
+  m_Name: X-Onion
+  m_EditorClassIdentifier: 
+  sandwichName: X-Onion
+  icon: {fileID: 21300000, guid: 8c5c3862843738f44a3bc82e65747b84, type: 3}
+  ingredients:
+  - {fileID: 11400000, guid: 501f802ab53e44640ac8c5c100159ed2, type: 2}
+  - {fileID: 11400000, guid: 5d5b9884ce522e5408846b70cde2dc99, type: 2}
+  - {fileID: 11400000, guid: 09c59c9ea5b79604a9312af75a770e94, type: 2}
