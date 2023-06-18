@@ -9,7 +9,6 @@
 -s="C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Data\Managed\UnityEngine"
 -s="C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Data\PlaybackEngines\WebGLSupport\Managed"
 -s="C:\Users\Pedro Brando\Documents\Unity\VPT Sandwich Maker\Library\PlayerScriptAssemblies"
--s="C:\Users\Pedro Brando\Documents\Unity\VPT Sandwich Maker\Packages\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc"
 -s="C:\Users\Pedro Brando\Documents\Unity\VPT Sandwich Maker\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator"
 -s="C:\Users\Pedro Brando\Documents\Unity\VPT Sandwich Maker\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom"
 -s="C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Data\Managed\UnityEngine"
